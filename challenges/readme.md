@@ -1,3 +1,4 @@
-# Challanges
+# Challenges Folder
 
-This folder will contain the challenges that are covered to include any notes
+# DO NOT MANIPULATE CONTENTS OF THIS FOLDER 
+- If you do then sync from master will no longer work properly

@@ -1,3 +1,5 @@
-# Notes
+# Notes Folder
 
-This folder is for you to use as you want.
+# THIS IS YOUR FOLDER TO DO WITH AS YOU WISH
+
+This folder is yours and I will not touch.

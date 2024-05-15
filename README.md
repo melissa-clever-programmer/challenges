@@ -1,12 +1,14 @@
 # challenges
 
-- Fork Repo to have a copy for yourself.  
-## The Challenges folder
-- This folder is the one I will work in.
-- Do not touch these files so the next step will work
-- Each time I push code you will see a sync option on your forked version so you can bring my changes down to your version
+A repo for all the different coding challenges covered during sessions
+Fork a copy of the repo.
 
-## The Notes folder
-- This folder is yours to do with as you please
-- Make copies of the files in the challenges folder here so you can add your own notes.
-- I will not touch this folder at all. 
+# Challenges Folder
+- This folder is where anything covered will go 
+- DO NOT MANIPULATE FILES IN THIS FOLDER
+- After each session after I push content to github you will be able to sync with master (my repo) and pull into your fork all the changes as long as you have not touched any files in this folder this will work
+
+# Notes Folder
+- This is your folder to do with as you please
+- I will not touch this folder
+- Make copies of content in the Challenges folder to here if you want to add your own notes so that sync will always work.
